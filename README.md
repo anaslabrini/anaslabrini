@@ -1,123 +1,61 @@
-<div align="center">
+# Hi there 👋, I'm Anas Labrini
 
-# 🐋 ORCA-MA  
-# **ANAS LABRINI**  
-### 🔥 Offensive Security | Red Team Operator | Self-Taught Hacker  
+![Profile Banner](https://img.shields.io/badge/Offensive%20Security-RedTeam-red?style=flat-square&logo=github)
 
-**Moroccan ORCA – Aggressive Recon & Precision Exploitation**
+I am a **Red Team Specialist** | Offensive Security Enthusiast | Passionate about **Penetration Testing, Automation & Security Research**.  
 
 ---
 
-### 🔗 Connect With Me
-[🌐 Website](#) • [💼 LinkedIn](#) • [🐱 GitHub](https://github.com/anaslabrini) • [📸 Instagram](#) • [✉ Email](mailto:#)
+## 🚀 About Me
+
+- 🔭 I’m currently working on Red Teaming engagements and offensive automation tools.  
+- 🌱 I’m learning **advanced post-exploitation techniques, cloud security attacks, and threat hunting**.  
+- 👯 I’m open to collaborate on **open-source security projects**.  
+- 💬 Ask me about **Python, Bash, Linux, and Security Automation**.  
+- ⚡ Fun fact: I love creating **hacker-style tools & payloads** for education and awareness.  
 
 ---
 
-</div>
+## 🛠️ Skills
 
-## 🧨 About Me
-أنا **أنس لبريني**، باحث أمني هجومي ومتعلم داتي بدأت من الصفر ووصلت لمستوى متقدم في **Offensive Security / Red Teaming** من خلال تطوير أدوات، تحليل ثغرات، وهجمات حقيقية في بيئات مختبرية.
-
-أركز على:
-- الهندسة الهجومية  
-- تطوير أدوات سيبرانية  
-- الاستطلاع المتقدم  
-- محاكاة الهجمات (Adversary Simulation)  
-- بناء Payloads وعمليات Weaponization  
-
----
-
-## ⚔️ Red Team Skills
-### 🎯 Core Offensive Skills
-- Reconnaissance (Active & Passive)
-- OSINT Operations & Target Profiling
-- Payload Development Basics
-- Phishing & Social Engineering (Advanced)
-- Clickjacking Attacks
-- Basic Privilege Escalation
-- Network Intrusion Workflow
-
----
-
-## 🔥 Technical Tools & Workflow Mastery
-### 🛠️ Tools I Use Aggressively
-- **Nmap** (Deep Scan / NSE / Fingerprinting)
-- **Burp Suite Pro** (Manual Testing / Intruder / Repeater)
-- **Metasploit Framework**
-- **Hydra**
-- **Aircrack-ng**
-- **Wireshark**
-- **Google Dorking**
-- **OSINT Framework**
-- **GitHub Actions (Automation)**
-
----
-
-## 🐍 Programming & Scripting
-- **Python** (Automation, Recon tools, payload logic)
-- **Bash** (System operations, enumeration scripts)
-- Linux Mastery (Debian/Kali)
-
----
-
-## 🧪 Lab Projects & Offensive Work
-### ✔️ Instagram Phishing Kit (Advanced)
-- صفحة تصيد كاملة + تسجيل الضحايا  
-- Logging, victim tracking, redirection  
-- Custom HTML + Automated Bash Handler  
-
-### ✔️ Auto-Recon Bash Suite
-- Enumerates services  
-- Creates full report  
-- Lateral movement suggestions  
-
-### ✔️ Payload Execution Lab
-- nohup persistence testing  
-- listener automation  
-- safe-lab execution environment  
-
-(سأضيف لك روابط حقيقية بمجرد أن تمدني بالمشاريع الموجودة في GitHub أو التي تريد إنشاءها)
+| Offensive Security | Programming & Automation | Tools & Platforms |
+|------------------|------------------------|-----------------|
+| Red Team Operations | Python | Kali Linux |
+| Social Engineering | Bash Scripting | Metasploit |
+| Penetration Testing | PowerShell | Cobalt Strike |
+| Threat Emulation | Networking | Nmap, Burp Suite |
+| Exploit Development | Automation Scripts | Wireshark, BloodHound |
 
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaslabrini&show_icons=true&theme=dark)
-
-</div>
+![Anas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnasLabrini&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasLabrini&layout=compact&theme=radical)
 
 ---
 
-## 🐋 ORCA MA — My Offensive Identity
-تمثل **ORCA-MA** القوة، الدقة، الصيد الذكي، والهجوم من الظل.  
-هذا هو مبدأي في الأمن الهجومي وفي بناء أدوات سيبرانية هجومية تعكس:
+## 🏆 Projects & Tools
 
-- Stealth  
-- Precision  
-- Aggressive Recon  
-- Controlled Exploitation  
+- [PayloadGen](https://github.com/AnasLabrini/PayloadGen) - Custom payload automation tool.  
+- [RedTeamOps](https://github.com/AnasLabrini/RedTeamOps) - Collection of offensive scripts and post-exploitation tools.  
+- [ReconAutomator](https://github.com/AnasLabrini/ReconAutomator) - Automated recon and scanning toolkit.  
 
----
-
-## 💀 Red Team Mindset
-> “Don’t scan like a script-kid. Think like an adversary.”  
-> “Recon is not a step — it’s a lifestyle.”  
-> “Attackers don’t guess. They profile.”
+> ⚠️ All tools are for **ethical use only** on authorized systems.  
 
 ---
 
-## 🧩 Currently Working On
-- بناء Malware Simulation Lab  
-- تطوير Automated Recon Engine  
-- مشاريع OSINT + Red Team tools  
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/anas-labrini)  
+[![Twitter](https://img.shields.io/badge/Twitter-@AnasLab-red?style=flat-square&logo=twitter)](https://twitter.com/AnasLab)  
+[![Email](https://img.shields.io/badge/Email-contact-red?style=flat-square&logo=gmail)](mailto:anas@example.com)
 
 ---
 
-## 🛡️ Final Note
-هذه الصفحة تمثل هويتي الهجومية كـ Red Teamer مغربي، متعلم ذاتياً، يطور نفسه كل يوم بهدف الوصول لمستوى عالمي.
+## ⚡ Fun Hacker Stats
 
----
+
 
 <div align="center">
 
