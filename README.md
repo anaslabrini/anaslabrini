@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🔥 ANAS LABRINI
-### Red Team Specialist | Offensive Security Engineer
+# 🔥 Anas Labrini
+### Red Team Specialist | Offensive Security 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Red+Team+Specialist;Offensive+Security+Engineer;Custom+Tool+Developer;Master+the+Attack+to+Strengthen+Defense" alt="Typing SVG" />
 
@@ -21,7 +21,7 @@
 
 ## 👾 About Me
 
-I am **Anas Labrini**, a **Red Team Specialist & Offensive Security Engineer** with a deep background in **adversary simulation, Linux-based offensive engineering, exploit development, and security automation**.
+I am **Anas Labrini**, a **Red Team Specialist & Offensive Security** with a deep background in **adversary simulation, Linux-based offensive engineering, exploit development, and security automation**.
 
 My work focuses on building **custom offensive tools**, simulating real-world attacks, and improving the detection & resilience of systems through realistic Red Team operations.
 
@@ -90,7 +90,7 @@ Primary OS:
 ### 💻 Programming Languages
 ```yaml
 Offensive Development:
-  - Python (Advanced)
+  - Python
   - Bash Scripting (Expert)
 ```
 
@@ -100,7 +100,7 @@ Offensive Development:
 
 ---
 
-## ⚔️ Offensive Tools I Master
+## ⚔️ Offensive Tools
 
 <div align="center">
 
@@ -283,17 +283,24 @@ Offensive Development:
 <div align="center">
 
 ```ascii
-    ___   _   _   ___   ___     _       ___   ___   ___   _   _   _ 
-   / _ \ | \ | | / _ \ / __|   | |     / _ \ | _ ) | _ \ | | | \ | |
-  | |_| ||  \| || |_| |\__ \   | |__  | |_| || _ \ |   / | | |  \| |
-   \___/ |_|\_| \___/ |___/   |____|  \___/ |___/ |_|_\ |_| |_|\_|
+ /$$$$$$         /$$                                   /$$         /$$                                                       /$$  /$$$$$$ 
+|_  $$_/        | $$                                  | $$        | $$                                                      | $$ /$$__  $$
+  | $$         /$$$$$$    /$$$$$$  /$$   /$$  /$$$$$$ | $$$$$$$  /$$$$$$         /$$$$$$/$$$$  /$$   /$$  /$$$$$$$  /$$$$$$ | $$| $$  \__/
+  | $$        |_  $$_/   |____  $$| $$  | $$ /$$__  $$| $$__  $$|_  $$_/        | $$_  $$_  $$| $$  | $$ /$$_____/ /$$__  $$| $$| $$$$    
+  | $$          | $$      /$$$$$$$| $$  | $$| $$  \ $$| $$  \ $$  | $$          | $$ \ $$ \ $$| $$  | $$|  $$$$$$ | $$$$$$$$| $$| $$_/    
+  | $$          | $$ /$$ /$$__  $$| $$  | $$| $$  | $$| $$  | $$  | $$ /$$      | $$ | $$ | $$| $$  | $$ \____  $$| $$_____/| $$| $$      
+ /$$$$$$        |  $$$$/|  $$$$$$$|  $$$$$$/|  $$$$$$$| $$  | $$  |  $$$$/      | $$ | $$ | $$|  $$$$$$$ /$$$$$$$/|  $$$$$$$| $$| $$      
+|______/         \___/   \_______/ \______/  \____  $$|__/  |__/   \___/        |__/ |__/ |__/ \____  $$|_______/  \_______/|__/|__/      
+                                             /$$  \ $$                                         /$$  | $$                                  
+                                            |  $$$$$$/                                        |  $$$$$$/                                  
+                                             \______/                                          \______/                                   
                                                                      
-     🔴 Red Team Specialist | Offensive Security Engineer 🔴
+     🔴 Red Team Specialist | Offensive Security  🔴
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-### 💀 *"In a world of zeros and ones, I find the vulnerabilities others miss."* 💀
+### 💀 *"Confronting technical challenges and solving them independently is not just a step in the learning process; it is a working methodology that builds real expertise and enables me to analyze, think systematically, and make effective decisions in complex environments."* 💀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anaslabrini&color=red&style=for-the-badge&label=PROFILE+VIEWS)
 
