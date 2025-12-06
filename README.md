@@ -303,8 +303,7 @@ Offensive Development:
 ### 💀 *"Confronting technical challenges and solving them independently is not just a step in the learning process; it is a working methodology that builds real expertise and enables me to analyze, think systematically, and make effective decisions in complex environments."* 💀
 
 
-![Profile Views](https://anaslabrini.netlify.app)
-
+![Profile Views](https://komarev.com/ghpvc/?username=anaslabrini&color=red&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
