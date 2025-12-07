@@ -157,8 +157,8 @@ Offensive Development:
 |:--------|:--------------|:-------------|
 | **AnasC2** | Python-based C2 framework for agent control, payload delivery & adversary simulation | [🔗 View](https://github.com/anaslabrini/AnasC2) |
 | **AnasSSHoney** | High-interaction SSH honeypot for attacker behavior & credential capture | [🔗 View](https://github.com/anaslabrini/AnasSSHoney) |
-| **AnasShadowCheck** | Misconfiguration, exposure & security-header analysis engine | [🔗 View](https://github.com/anaslabrini/AnasShadowCheck) |
-| **AnasHunter** | Target profiling & deep enumeration toolkit | [🔗 View](https://github.com/anaslabrini/AnasHunter) |
+| **AnasShadowCheck** | Supply Chain Attack | [🔗 View](https://github.com/anaslabrini/AnasShadowCheck) |
+| **AnasHunter** | Web Application Attacks | [🔗 View](https://github.com/anaslabrini/AnasHunter) |
 | **AnasOsint** | Automated OSINT intelligence collection & correlation engine | [🔗 View](https://github.com/anaslabrini/AnasOsint) |
 | **AnasRecon** | Automated reconnaissance framework for asset discovery & fingerprinting | [🔗 View](https://github.com/anaslabrini/AnasRecon) |
 | **AnassRedTool** | Multi-layer offensive toolkit for Red Team workflows | [🔗 View](https://github.com/anaslabrini/AnassRedTool) |
@@ -198,7 +198,7 @@ Offensive Development:
 <td width="33%" align="center">
 <img src="https://img.icons8.com/color/96/000000/search.png" width="80" height="80"/>
 <h3>AnasShadowCheck</h3>
-<p>Misconfiguration Analysis</p>
+<p>Supply Chain Attack</p>
 <a href="https://github.com/anaslabrini/AnasShadowCheck">
 <img src="https://img.shields.io/badge/View-Repository-yellow?style=for-the-badge"/>
 </a>
@@ -209,7 +209,7 @@ Offensive Development:
 <td width="33%" align="center">
 <img src="https://img.icons8.com/color/96/000000/target.png" width="80" height="80"/>
 <h3>AnasHunter</h3>
-<p>Target Profiling & Enum</p>
+<p>Web Application Attacks</p>
 <a href="https://github.com/anaslabrini/AnasHunter">
 <img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge"/>
 </a>
