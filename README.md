@@ -308,6 +308,6 @@ Offensive Development:
 
 ---
 
-** Educational & Authorized Security Testing Only | Built with  by Anas Labrini **
+**' Educational & Authorized Security Testing Only | Built with  by Anas Labrini '**
 
 </div>
