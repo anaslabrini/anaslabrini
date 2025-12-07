@@ -149,28 +149,29 @@ Offensive Development:
 
 ---
 
-## 🧨 Tools I Developed (Custom Offensive Engineering)
+##  Tools I Developed (Custom Offensive Engineering)
 
 <div align="center">
 
 | 🛠️ Tool | 📝 Description | 🔗 Repository |
 |:--------|:--------------|:-------------|
-| **AnasC2** | Command & Control Python-based Framework | [🔗 View](https://github.com/anaslabrini/AnasC2) |
-| **AnasSSHoney** | SSH Honeypot System | [🔗 View](https://github.com/anaslabrini/AnasSSHoney) |
-| **AnasShadowCheck** | Advanced Misconfiguration & Header Analysis | [🔗 View](https://github.com/anaslabrini/AnasShadowCheck) |
-| **AnasHunter** | Target Profiling & Enumeration | [🔗 View](https://github.com/anaslabrini/AnasHunter) |
-| **AnasOsint** | OSINT Automated Engine | [🔗 View](https://github.com/anaslabrini/AnasOsint) |
-| **AnasRecon** | Recon Automation Framework | [🔗 View](https://github.com/anaslabrini/AnasRecon) |
-| **AnassRedTool** | Multi‑layer Offensive Toolkit | [🔗 View](https://github.com/anaslabrini/AnassRedTool) |
-| **S-PUP** | Stealth Payload Utility Processor | *Coming Soon* |
+| **AnasC2** | Python-based C2 framework for agent control, payload delivery & adversary simulation | [🔗 View](https://github.com/anaslabrini/AnasC2) |
+| **AnasSSHoney** | High-interaction SSH honeypot for attacker behavior & credential capture | [🔗 View](https://github.com/anaslabrini/AnasSSHoney) |
+| **AnasShadowCheck** | Misconfiguration, exposure & security-header analysis engine | [🔗 View](https://github.com/anaslabrini/AnasShadowCheck) |
+| **AnasHunter** | Target profiling & deep enumeration toolkit | [🔗 View](https://github.com/anaslabrini/AnasHunter) |
+| **AnasOsint** | Automated OSINT intelligence collection & correlation engine | [🔗 View](https://github.com/anaslabrini/AnasOsint) |
+| **AnasRecon** | Automated reconnaissance framework for asset discovery & fingerprinting | [🔗 View](https://github.com/anaslabrini/AnasRecon) |
+| **AnassRedTool** | Multi-layer offensive toolkit for Red Team workflows | [🔗 View](https://github.com/anaslabrini/AnassRedTool) |
+| **S-PUP** | Stealth Payload Utility Processor (Coming Soon) | *Coming Soon* |
 
 </div>
+
 
 > 💡 *These tools reflect real Red Team engineering and offensive workflow automation.*
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -249,7 +250,7 @@ Offensive Development:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -278,7 +279,7 @@ Offensive Development:
 
 ---
 
-## 🐉 Hacker Mode
+## Mode
 
 <div align="center">
 
@@ -307,6 +308,6 @@ Offensive Development:
 
 ---
 
-**⚡ Educational & Authorized Security Testing Only | Built with 🔥 by Anas Labrini ⚡**
+** Educational & Authorized Security Testing Only | Built with  by Anas Labrini **
 
 </div>
