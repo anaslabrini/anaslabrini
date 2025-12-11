@@ -197,9 +197,9 @@ Offensive Development:
 
 <td width="33%" align="center">
 <img src="https://img.icons8.com/color/96/000000/search.png" width="80" height="80"/>
-<h3>AnasShadowCheck</h3>
+<h3>SpyMorph</h3>
 <p>Supply Chain Attack</p>
-<a href="https://github.com/anaslabrini/AnasShadowCheck">
+<a href="https://github.com/anaslabrini/SpyMorph">
 <img src="https://img.shields.io/badge/View-Repository-yellow?style=for-the-badge"/>
 </a>
 </td>
