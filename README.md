@@ -157,7 +157,7 @@ Offensive Development:
 |:--------|:--------------|:-------------|
 | **AnasC2** | Python-based C2 framework for agent control, payload delivery & adversary simulation | [🔗 View](https://github.com/anaslabrini/AnasC2) |
 | **AnasSSHoney** | High-interaction SSH honeypot for attacker behavior & credential capture | [🔗 View](https://github.com/anaslabrini/AnasSSHoney) |
-| **AnasShadowCheck** | Supply Chain Attack | [🔗 View](https://github.com/anaslabrini/AnasShadowCheck) |
+| **SpyMorph** | Advanced Multi-Stage Dropper + Loader + Persistence Agent | [🔗 View](https://github.com/anaslabrini/SpyMorph) |
 | **AnasHunter** | Web Application Attacks | [🔗 View](https://github.com/anaslabrini/AnasHunter) |
 | **AnasOsint** | Automated OSINT intelligence collection & correlation engine | [🔗 View](https://github.com/anaslabrini/AnasOsint) |
 | **AnasRecon** | Automated reconnaissance framework for asset discovery & fingerprinting | [🔗 View](https://github.com/anaslabrini/AnasRecon) |
@@ -198,7 +198,7 @@ Offensive Development:
 <td width="33%" align="center">
 <img src="https://img.icons8.com/color/96/000000/search.png" width="80" height="80"/>
 <h3>SpyMorph</h3>
-<p>Supply Chain Attack</p>
+<p>APT-Grade Multi-Stage Implant Loader</p>
 <a href="https://github.com/anaslabrini/SpyMorph">
 <img src="https://img.shields.io/badge/View-Repository-yellow?style=for-the-badge"/>
 </a>
