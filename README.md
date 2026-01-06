@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔥 Anas Labrini
+#  Anas Labrini
 ### Red Team Specialist | Offensive Security 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Red+Team+Specialist;Offensive+Security+Engineer;Custom+Tool+Developer;Master+the+Attack+to+Strengthen+Defense" alt="Typing SVG" />
@@ -19,13 +19,13 @@
 
 ---
 
-## 👾 About Me
+##  About Me
 
 I am **Anas Labrini**, a **Red Team Specialist & Offensive Security** with a deep background in **adversary simulation, Linux-based offensive engineering, exploit development, and security automation**.
 
 My work focuses on building **custom offensive tools**, simulating real-world attacks, and improving the detection & resilience of systems through realistic Red Team operations.
 
-### 🔥 What I Do
+###  What I Do
 - Offensive automation & scripting  
 - Adversary Simulation / Threat Emulation  
 - Post‑exploitation engineering  
@@ -38,7 +38,7 @@ My work focuses on building **custom offensive tools**, simulating real-world at
 - C2 implant development  
 - Cloud attack simulation  
 
-### 🎯 My Philosophy
+###  My Philosophy
 > **"Master the attack to strengthen the defense."**
 
 ---
@@ -71,7 +71,7 @@ My work focuses on building **custom offensive tools**, simulating real-world at
 
 ---
 
-## 🧩 Technical Skills
+##  Technical Skills
 
 <table>
 <tr>
@@ -81,7 +81,6 @@ My work focuses on building **custom offensive tools**, simulating real-world at
 ```yaml
 Primary OS:
   - Linux (Kali)
-  - ParrotOS
 ```
 
 </td>
@@ -104,44 +103,44 @@ Offensive Development:
 
 <div align="center">
 
-### 🎯 Frameworks & C2
+###  Frameworks & C2
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge)
 ![Empire](https://img.shields.io/badge/Empire-1C1C1C?style=for-the-badge)
 ![Sliver](https://img.shields.io/badge/Sliver-00D9FF?style=for-the-badge)
 
-### 🌐 Network & Reconnaissance
+###  Network & Reconnaissance
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
 ![Masscan](https://img.shields.io/badge/Masscan-FF6B6B?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-0080FF?style=for-the-badge)
 ![Bettercap](https://img.shields.io/badge/Bettercap-8B0000?style=for-the-badge)
 
-### 🕷️ Web Application Security
+###  Web Application Security
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 ![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=for-the-badge)
 ![Ffuf](https://img.shields.io/badge/Ffuf-9B59B6?style=for-the-badge)
 ![Gobuster](https://img.shields.io/badge/Gobuster-00D9FF?style=for-the-badge)
 ![Feroxbuster](https://img.shields.io/badge/Feroxbuster-FF8C00?style=for-the-badge)
 
-### 🔐 Credential & Password Attacks
+###  Credential & Password Attacks
 ![Hashcat](https://img.shields.io/badge/Hashcat-FF0080?style=for-the-badge)
 ![John](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge)
 ![Hydra](https://img.shields.io/badge/Hydra-00FF00?style=for-the-badge)
 ![Medusa](https://img.shields.io/badge/Medusa-4B0082?style=for-the-badge)
 ![Responder](https://img.shields.io/badge/Responder-FFD700?style=for-the-badge)
 
-### 🎯 Active Directory
+###  Active Directory
 ![BloodHound](https://img.shields.io/badge/BloodHound-DC143C?style=for-the-badge)
 ![SharpHound](https://img.shields.io/badge/SharpHound-B22222?style=for-the-badge)
 ![Evil-WinRM](https://img.shields.io/badge/Evil--WinRM-CC0000?style=for-the-badge)
 ![Impacket](https://img.shields.io/badge/Impacket-1679A7?style=for-the-badge)
 
-### 🔍 Privilege Escalation & Enumeration
+###  Privilege Escalation & Enumeration
 ![LinPEAS](https://img.shields.io/badge/LinPEAS-32CD32?style=for-the-badge)
 ![WinPEAS](https://img.shields.io/badge/WinPEAS-1E90FF?style=for-the-badge)
 
-### 🕵️ OSINT Tools
+###  OSINT Tools
 ![TheHarvester](https://img.shields.io/badge/TheHarvester-2ECC71?style=for-the-badge)
 ![Amass](https://img.shields.io/badge/Amass-3498DB?style=for-the-badge)
 
@@ -153,7 +152,7 @@ Offensive Development:
 
 <div align="center">
 
-| 🛠️ Tool | 📝 Description | 🔗 Repository |
+|  Tool |  Description |  Repository |
 |:--------|:--------------|:-------------|
 | **AnasC2** | Python-based C2 framework for agent control, payload delivery & adversary simulation | [🔗 View](https://github.com/anaslabrini/AnasC2) |
 | **AnasSSHoney** | High-interaction SSH honeypot for attacker behavior & credential capture | [🔗 View](https://github.com/anaslabrini/AnasSSHoney) |
@@ -167,7 +166,7 @@ Offensive Development:
 </div>
 
 
-> 💡 *These tools reflect real Red Team engineering and offensive workflow automation.*
+>  *These tools reflect real Red Team engineering and offensive workflow automation.*
 
 ---
 
