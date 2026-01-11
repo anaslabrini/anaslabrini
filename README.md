@@ -159,6 +159,7 @@ Offensive Development:
 | **SpyMorph** | Advanced Multi-Stage Dropper + Loader + Persistence Agent | [🔗 View](https://github.com/anaslabrini/SpyMorph) |
 | **AnasHunter** | Web Application Attacks | [🔗 View](https://github.com/anaslabrini/AnasHunter) |
 | **AnasOsint** | Automated OSINT intelligence collection & correlation engine | [🔗 View](https://github.com/anaslabrini/AnasOsint) |
+| **Crossmos** | C2 talagram anas | [🔗 View](https://github.com/anaslabrini/crossmos) |
 | **AnasRecon** | Automated reconnaissance framework for asset discovery & fingerprinting | [🔗 View](https://github.com/anaslabrini/AnasRecon) |
 | **AnassRedTool** | Multi-layer offensive toolkit for Red Team workflows | [🔗 View](https://github.com/anaslabrini/AnassRedTool) |
 | **S-PUP** | Stealth Payload Utility Processor (Coming Soon) | *Coming Soon* |
