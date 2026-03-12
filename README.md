@@ -40,6 +40,7 @@ My work focuses on building **custom offensive tools**, simulating real-world at
 
 ###  My Philosophy
 > **"Master the attack to strengthen the defense."**
+> --------
 > **"Discretion is better than guarding; silent work is stronger than encryption."**
 
 ---
