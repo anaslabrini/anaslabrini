@@ -33,37 +33,38 @@ My work focuses on building **custom offensive tools**, simulating real-world at
 - Advanced recon & enumeration  
 - Red Team infrastructure building  
 
-### 📚 Currently Learning
+###  Currently Learning
 - Advanced post‑exploitation chains  
 - C2 implant development  
 - Cloud attack simulation  
 
 ###  My Philosophy
 > **"Master the attack to strengthen the defense."**
+> **"Discretion is better than guarding; silent work is stronger than encryption."**
 
 ---
 
-## 🛡️ Red Team Disciplines
+##  Red Team Disciplines
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-- ✔ **Reconnaissance (Passive & Active)**
-- ✔ **Exploitation**
-- ✔ **Privilege Escalation**
-- ✔ **Lateral Movement**
-- ✔ **Post‑Exploitation**
-- ✔ **Persistence Techniques**
+-  **Reconnaissance (Passive & Active)**
+-  **Exploitation**
+-  **Privilege Escalation**
+-  **Lateral Movement**
+-  **Post‑Exploitation**
+-  **Persistence Techniques**
 
 </td>
 <td width="50%" valign="top">
 
-- ✔ **Web Attacks**
-- ✔ **Network Attacks**
-- ✔ **Phishing & Social Engineering**
-- ✔ **C2 Operations**
-- ✔ **Attack Simulation / Threat Emulation**
+-  **Web Attacks**
+-  **Network Attacks**
+-  **Phishing & Social Engineering**
+-  **C2 Operations**
+-  **Attack Simulation / Threat Emulation**
 
 </td>
 </tr>
@@ -77,7 +78,7 @@ My work focuses on building **custom offensive tools**, simulating real-world at
 <tr>
 <td width="50%" valign="top">
 
-### 🐧 Operating Systems
+###  Operating Systems
 ```yaml
 Primary OS:
   - Linux (Kali)
@@ -86,7 +87,7 @@ Primary OS:
 </td>
 <td width="50%" valign="top">
 
-### 💻 Programming Languages
+###  Programming Languages
 ```yaml
 Offensive Development:
   - Python
@@ -99,7 +100,7 @@ Offensive Development:
 
 ---
 
-## ⚔️ Offensive Tools
+##  Offensive Tools
 
 <div align="center">
 
