@@ -1,261 +1,196 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=28&pause=1000&color=CC0000&center=true&vCenter=true&width=800&lines=Anas+Labrini;Offensive+Security+Researcher;Red+Team+Engineer;Malware+Researcher+%26+Tool+Developer;Kernel-Aware+Security+Engineering" alt="Typing SVG" />
+<h1>Anas Labrini</h1>
+<h3>Offensive Security Researcher | Red Team Engineer | Malware Developer</h3>
 
 </div>
 
 ---
 
-##  Identity
+## Identity
 
-**Anas Labrini** is an independent **Offensive Security Researcher, Red Team Engineer, and Malware Developer** based in Morocco.
+Anas Labrini is an independent Offensive Security Researcher and Red Team Engineer based in Morocco. His work focuses on adversary simulation, offensive tooling, and controlled malware research within authorized environments.
 
-He specializes in **adversary simulation, offensive tooling, and low-level system interaction**, with a strong focus on building realistic attack chains that reflect modern threat behavior across **Windows and Linux environments**.
+His technical progression originates from low-level exploration of Linux systems, networking fundamentals, and Python-based development, evolving into advanced domains including post-exploitation engineering, command and control infrastructure design, and multi-stage attack simulation.
 
-His journey began with deep self-study in **Linux internals, networking, and Python development**, later evolving into advanced domains including:
+His current research direction emphasizes the development of realistic offensive frameworks that replicate modern threat behavior across both Windows and Linux platforms.
 
-- Penetration testing methodology  
-- Exploit development  
+---
+
+## Operational Scope
+
+- Reconnaissance and intelligence gathering  
+- Initial access and exploitation  
+- Privilege escalation and lateral movement  
 - Post-exploitation engineering  
-- Malware research & behavioral analysis  
-
-He develops **research-grade offensive tools** designed for **authorized Red Team operations, controlled lab environments, and security research**.
-
----
-
-##  Core Disciplines
-
-- Reconnaissance (Passive & Active)  
-- Initial Access & Exploitation  
-- Privilege Escalation  
-- Lateral Movement & Pivoting  
-- Post-Exploitation Engineering  
-- Persistence Mechanisms  
-- Defense Evasion & Anti-Forensics  
-- Command & Control (C2) Infrastructure  
-- Malware Development & Analysis  
-- Web Application Security Testing  
-- Network Attack Simulation  
-- Social Engineering & Phishing Simulation  
-- Credential Access & Exfiltration Research  
-- OSINT & Intelligence Gathering  
+- Persistence and long-term access mechanisms  
+- Defense evasion and anti-forensics  
+- Command and control infrastructure  
+- Malware development and behavioral research  
+- Web and network attack simulation  
 
 ---
 
-##  Low-Level & Kernel Interaction
+## Low-Level & Kernel-Oriented Engineering
 
-A significant part of his work involves **kernel-aware engineering** and interaction with **low-level system components**.
+A core aspect of his work involves controlled interaction with system internals and low-level execution layers.
 
-Several projects integrate controlled interaction with:
+This includes:
 
-- Windows internal APIs & privilege mechanisms  
-- Linux system-level interfaces (systemd, process control, memory behavior)  
-- Execution control beyond standard user-space boundaries  
+- Utilization of Windows internal APIs and privilege manipulation mechanisms  
+- Interaction with Linux system-level components such as systemd, process control, and execution flow  
+- Development patterns that extend beyond standard user-space execution  
 
-This enables:
+These capabilities support:
 
-- Enhanced stealth and execution control  
-- Advanced persistence techniques  
-- Deeper visibility into system behavior  
-- Realistic adversary simulation aligned with modern threats  
+- Stealth-oriented execution models  
+- Persistent system integration techniques  
+- Enhanced control over runtime behavior  
+- Realistic simulation of advanced adversary techniques  
 
-The goal is not raw kernel exploitation, but **leveraging system internals in a controlled and research-oriented manner** to simulate real-world attacker capabilities.
+The objective is to reproduce attacker behavior with high fidelity while maintaining a research-oriented and controlled implementation.
 
 ---
 
-##  Technical Stack
+## Technical Stack
 
 **Operating Systems**  
-Linux (Primary Offensive Platform)  
-Windows (Internal Behavior & Low-Level Interaction)
+Linux (Primary)  
+Windows (Internal Behavior Analysis)
 
-**Programming & Scripting**  
-Python • PowerShell • Bash • C (DigiSpark) • VBScript  
+**Languages**  
+Python  
+PowerShell  
+Bash  
+C (Embedded Contexts)  
+VBScript  
 
-**Offensive Frameworks & C2**  
-Metasploit • Cobalt Strike • Empire • Sliver  
+**Frameworks & Tooling**  
+Metasploit  
+Cobalt Strike  
+Empire  
+Sliver  
 
 **Network & Reconnaissance**  
-Nmap • Masscan • Wireshark • Tcpdump • Bettercap  
+Nmap  
+Masscan  
+Wireshark  
+Tcpdump  
+Bettercap  
 
 **Web Security**  
-Burp Suite • SQLmap • Ffuf • Gobuster • Feroxbuster  
+Burp Suite  
+SQLmap  
+Ffuf  
+Gobuster  
+Feroxbuster  
 
 **Credential Attacks**  
-Hashcat • John the Ripper • Hydra • Medusa • Responder  
+Hashcat  
+John the Ripper  
+Hydra  
+Medusa  
+Responder  
 
 **Active Directory**  
-BloodHound • SharpHound • Evil-WinRM • Impacket  
-
-**Enumeration & PrivEsc**  
-LinPEAS • WinPEAS  
-
-**OSINT**  
-TheHarvester • Amass  
+BloodHound  
+SharpHound  
+Evil-WinRM  
+Impacket  
 
 ---
 
-##  Developed Tools & Research Projects
+## Selected Projects
 
-These projects represent **independent research in offensive security, malware engineering, and adversary simulation**.
-
----
-
-###  CROSSMOS
-**Category:** Red Team / Malware Research / Adversary Simulation  
-**Platform:** Windows  
-
-A modular **Windows attack framework** built around a structured operational architecture.
-
-It integrates:
-
-- Command & Control via Telegram (low-noise channel)  
-- Advanced persistence (Scheduled Tasks / SYSTEM level)  
-- Credential extraction (Chromium DPAPI + AES-GCM)  
-- Keylogging with contextual awareness  
-- Anti-analysis & anti-VM detection  
-- Multi-layer self-destruction & anti-forensics  
-
-Includes memory-oriented execution, encryption pipelines, and strong evasion logic aligned with real-world malware behavior.
+The following projects represent structured research in offensive security, adversary simulation, and malware engineering.
 
 ---
 
-###  SpyMorph
-**Category:** Offensive Security / Linux Malware Simulation  
-**Platform:** Linux (Root-Level Execution)  
+### CROSSMOS  
+Modular Windows attack framework focused on persistence, command and control, anti-analysis, and controlled malware simulation.  
 
-A multi-stage framework demonstrating:
-
-- Staged payload decryption  
-- In-memory execution  
-- systemd-based persistence  
-- Anti-forensics cleanup  
-- Self-deleting execution chain  
-
-Designed to simulate **real-world Linux attack chains** with minimal artifact footprint.
+[Access Repository](https://github.com/anaslabrini/crossmos)
 
 ---
 
-###  S-PUP (Shark Pup)
-**Category:** Malware Research / Surveillance / Persistence Engineering  
-**Platform:** Cross-Platform  
+### SpyMorph  
+Multi-stage Linux execution framework demonstrating staged decryption, in-memory execution, and systemd-based persistence.  
 
-A **multi-layer persistence and surveillance system** featuring:
-
-- Keylogging & credential extraction  
-- Deep system reconnaissance  
-- Anti-analysis & tool detection  
-- Self-recovery architecture (multi-instance guardians)  
-- Auto-update from remote source  
-
-Implements a resilient design where components monitor and restore each other.
+[Access Repository](https://github.com/anaslabrini/SpyMorph)
 
 ---
 
-###  AnasC2
-**Category:** Command & Control  
+### S-PUP  
+Cross-platform persistence and surveillance research tool with self-recovery architecture and anti-analysis mechanisms.  
 
-A browser-based C2 framework using:
-
-- Flask + Socket.IO  
-- Real-time agent communication  
-- Centralized control interface  
-- Modular execution system  
+[Access Repository](https://github.com/anaslabrini/S-PUP)
 
 ---
 
-###  AnasHunter
-**Category:** Web Attack Framework  
+### AnasC2  
+Browser-based command and control framework enabling real-time interaction with distributed agents.  
 
-Includes modules for:
-
-- XSS  
-- SQL Injection  
-- Clickjacking  
-- Brute Force  
-- DoS simulation  
+[Access Repository](https://github.com/anaslabrini/AnasC2)
 
 ---
 
-###  AnasOsint
-**Category:** OSINT Intelligence Framework  
+### AnasHunter  
+Web application attack framework covering injection, brute-force, and denial-of-service testing scenarios.  
 
-Supports intelligence gathering on:
-
-- Emails  
-- IPs  
-- Domains  
-- Phone numbers  
-
-Aggregates data from 20+ sources with report generation.
+[Access Repository](https://github.com/anaslabrini/AnasHunter)
 
 ---
 
-###  AnasRecon
-**Category:** Reconnaissance Framework  
+### AnasOsint  
+OSINT intelligence collection framework aggregating data from multiple external sources with structured reporting.  
 
-Performs:
-
-- Subdomain enumeration  
-- WHOIS & DNS analysis  
-- SSL inspection  
-- Port scanning (Nmap)  
-- Vulnerability detection  
-- Risk scoring  
+[Access Repository](https://github.com/anaslabrini/AnasOsint)
 
 ---
 
-###  AnassRedTool
-**Category:** Red Team Toolkit  
+### AnasRecon  
+Reconnaissance framework for asset discovery, service enumeration, and vulnerability identification.  
 
-Includes:
-
-- Brute force modules  
-- Port scanning  
-- Host availability testing  
+[Access Repository](https://github.com/anaslabrini/AnasRecon)
 
 ---
 
-###  AnaSSHoney
-**Category:** Honeypot / Threat Intelligence  
+### AnassRedTool  
+Multi-functional Red Team utility for brute-force operations, scanning, and network testing.  
 
-A high-interaction SSH honeypot for capturing:
-
-- Attacker behavior  
-- Credential attempts  
-- Session activity  
+[Access Repository](https://github.com/anaslabrini/AnassRedTool)
 
 ---
 
-##  Engineering Approach
+### AnaSSHoney  
+High-interaction SSH honeypot for capturing attacker behavior and credential activity.  
 
-- Modular architecture design  
-- Multi-stage execution chains  
-- Memory-oriented operations  
-- Anti-analysis & environment awareness  
-- Persistence & resilience engineering  
-- Controlled malware simulation for research  
+[Access Repository](https://github.com/anaslabrini/AnasSSHoney)
 
 ---
 
-##  Philosophy
+## Engineering Approach
 
-> **"Understanding how systems operate at every layer — from user space to kernel space — is essential to realistically simulate attackers and build stronger defenses."**
+- Modular architecture with isolated components  
+- Multi-stage execution design  
+- Memory-aware and low-footprint operation  
+- Anti-analysis and environment-aware logic  
+- Persistence through layered mechanisms  
+- Controlled simulation of real-world attack chains  
 
 ---
 
-##  Contact
+## Statement
+
+The objective is to understand adversarial behavior at multiple layers of system interaction — from user-space execution to kernel-aware mechanisms — in order to replicate, analyze, and ultimately improve defensive capabilities.
+
+---
+
+## Contact
 
 GitHub: https://github.com/anaslabrini  
 Website: https://anaslabrini.netlify.app  
 
 ---
 
-<div align="center">
-
- All work is strictly for **educational purposes, authorized testing, and security research**.  
- Unauthorized use is prohibited.
-
-![Profile Views](https://komarev.com/ghpvc/?username=anaslabrini&color=CC0000&style=flat-square)
-
-</div>
+All work is conducted within authorized environments for research, education, and controlled security testing. Unauthorized use is prohibited.
