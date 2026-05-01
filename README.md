@@ -1,315 +1,201 @@
 <div align="center">
 
-#  Anas Labrini
-### Red Team Specialist | Offensive Security 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Red+Team+Specialist;Offensive+Security+Engineer;Custom+Tool+Developer;Master+the+Attack+to+Strengthen+Defense" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-Offensive%20Security-red?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-Kali%20Expert-blue?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-Offensive%20Coding-yellow?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Bash-Scripting-green?style=for-the-badge&logo=gnubash">
-  <img src="https://img.shields.io/badge/GitHub-Security-black?style=for-the-badge&logo=github">
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=28&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=Anas+Labrini;Independent+Security+Researcher;Red+Team+Practitioner;Offensive+Tool+Developer" alt="Typing SVG" />
 
 </div>
 
 ---
 
-##  About Me
+## Identity
 
-I am **Anas Labrini**, a **Red Team Specialist & Offensive Security** with a deep background in **adversary simulation, Linux-based offensive engineering, exploit development, and security automation**.
+**Anas Labrini** is an independent cybersecurity researcher and Red Team practitioner based in Morocco, specializing in offensive security operations, adversary simulation, and the development of research-grade security tooling for authorized testing environments.
 
-My work focuses on building **custom offensive tools**, simulating real-world attacks, and improving the detection & resilience of systems through realistic Red Team operations.
+His trajectory began through rigorous self-directed study across Linux systems internals, network architecture, and Python-based automation, before progressing into penetration testing methodology, exploit development, and post-exploitation engineering. He has completed structured hands-on training under the supervision of experienced practitioners in the field.
 
-###  What I Do
-- Offensive automation & scripting  
-- Adversary Simulation / Threat Emulation  
-- Post‑exploitation engineering  
-- Linux-based attack development  
-- Advanced recon & enumeration  
-- Red Team infrastructure building  
-
-###  Currently Learning
-- Advanced post‑exploitation chains  
-- C2 implant development  
-- Cloud attack simulation  
-
-###  My Philosophy
-> **"Master the attack to strengthen the defense."**
-> --------
-> **"Discretion is better than guarding; silent work is stronger than encryption."**
+His work centers on translating theoretical attack knowledge into functional tooling — spanning reconnaissance automation, payload delivery mechanisms, command and control infrastructure, anti-forensics research, and post-assessment analysis — operating exclusively within legally authorized and ethical boundaries.
 
 ---
 
-##  Red Team Disciplines
+## Disciplines
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
--  **Reconnaissance (Passive & Active)**
--  **Exploitation**
--  **Privilege Escalation**
--  **Lateral Movement**
--  **Post‑Exploitation**
--  **Persistence Techniques**
-
-</td>
-<td width="50%" valign="top">
-
--  **Web Attacks**
--  **Network Attacks**
--  **Phishing & Social Engineering**
--  **C2 Operations**
--  **Attack Simulation / Threat Emulation**
-
-</td>
-</tr>
-</table>
+Reconnaissance — Passive and Active  
+Initial Access and Exploitation  
+Privilege Escalation  
+Lateral Movement and Pivoting  
+Post-Exploitation Engineering  
+Persistence Mechanisms  
+Defense Evasion and Anti-Forensics  
+Command and Control Infrastructure  
+Web Application Security Testing  
+Network Attack Simulation  
+Social Engineering and Phishing Simulation  
+Credential Access and Exfiltration Research  
+Adversary Simulation and Threat Emulation  
+OSINT and Intelligence Gathering  
 
 ---
 
-##  Technical Skills
+## Technical Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-###  Operating Systems
-```yaml
-Primary OS:
-  - Linux (Kali)
-```
-
-</td>
-<td width="50%" valign="top">
-
-###  Programming Languages
-```yaml
-Offensive Development:
-  - Python
-  - Bash Scripting (Expert)
-```
-
-</td>
-</tr>
-</table>
+**Operating Systems:** Linux — Primary offensive platform  
+**Languages:** Python, PowerShell, Bash, C (DigiSpark), VBScript  
+**Frameworks and C2:** Metasploit, Cobalt Strike, Empire, Sliver  
+**Network and Reconnaissance:** Nmap, Masscan, Wireshark, Tcpdump, Bettercap  
+**Web Application:** Burp Suite, SQLmap, Ffuf, Gobuster, Feroxbuster  
+**Credential Attacks:** Hashcat, John the Ripper, Hydra, Medusa, Responder  
+**Active Directory:** BloodHound, SharpHound, Evil-WinRM, Impacket  
+**Enumeration:** LinPEAS, WinPEAS  
+**OSINT:** TheHarvester, Amass  
 
 ---
 
-##  Offensive Tools
+## Developed Tools
+
+The following tools were designed, engineered, and maintained by Anas Labrini as part of his independent security research. Each project reflects a specific domain of offensive operations and serves as both a functional testing instrument and a research artifact.
+
+---
+
+### CROSSMOS
+**Category:** Red Team / Adversary Simulation / Malware Research  
+**Language:** C (DigiSpark), PowerShell, Python  
+**Platform:** Windows  
+
+A USB-deployable, modular Red Team attack framework built around a full Windows operational architecture. CROSSMOS implements a multi-component design with clearly separated functional roles across installation, command and control, payload execution, activity monitoring, anti-AV awareness, tamper detection, and secure self-destruction.
+
+The command and control engine leverages the Telegram Bot API over HTTPS for low-noise, bidirectional communication — a living-off-the-land approach that avoids traditional C2 infrastructure signatures. The framework incorporates advanced persistence through scheduled tasks with SYSTEM-level privileges, defense evasion via PowerShell logging suppression and timestomping, credential extraction from Chromium-based browsers using DPAPI and AES-GCM decryption, keylogging with foreground window correlation, GPS and network reconnaissance, and a layered self-destruction protocol that eliminates filesystem artifacts, shadow copies, event logs, prefetch data, and USN journal records.
+
+An anti-VM and sandbox detection engine uses hardware fingerprinting, ACPI inspection, MAC address OUI profiling, timing analysis, and system age heuristics to evaluate the execution environment prior to payload activation. Payload protection is implemented through a triple AES-256 encryption pipeline with code obfuscation and Python-to-C transpilation into compiled .pyd modules.
+
+MITRE ATT&CK coverage includes: T1555, T1040, T1059, T1105, T1564, T1057, T1113, T1562, T1071, T1027, T1082, T1518, T1083, T1056.
+
+Repository: [github.com/anaslabrini/crossmos](https://github.com/anaslabrini/crossmos)
+
+---
+
+### SpyMorph
+**Category:** Offensive Security / Red Team Research  
+**Platform:** Linux — Root-level execution  
+
+A multi-stage, multi-layered offensive security framework demonstrating advanced Red Team techniques including execution flow control, payload concealment, staged decryption, stealth execution, in-memory code execution, and long-term systemd-based persistence.
+
+The execution chain is designed as a sequence of isolated stages: an entry dispatcher, a decryption loader, an encrypted data container, a stealth execution and cleanup layer, and a remotely hosted encrypted persistence payload. Each stage is minimal and terminates silently on failure, producing no recoverable artifacts. The persistence layer operates through systemd service files, restores automatically if stopped, and runs with near-zero system resource consumption. The framework includes anti-forensics capabilities through in-memory execution via exec(), file overwriting with random data, and secure self-deletion of critical components.
+
+Repository: [github.com/anaslabrini/SpyMorph](https://github.com/anaslabrini/SpyMorph)
+
+---
+
+### S-PUP (Shark Pup)
+**Category:** Surveillance Research / Persistence Engineering / Credential Access  
+**Platform:** Cross-platform — Windows, Linux, macOS  
+
+An advanced cross-platform surveillance and persistence research tool combining keylogging, system reconnaissance, credential extraction, anti-analysis evasion, and a resilient multi-layered persistence architecture.
+
+On execution, S-PUP establishes five independent persistence paths across hidden directories, each functioning as a guardian process that monitors the primary agent. If the main instance is terminated or removed, any surviving guardian restores the full operational state within a 60-minute cycle. The system also performs automatic self-updates from a remote repository at the same interval, enabling deployment of post-exploitation expansions without re-access to the target.
+
+Reconnaissance capabilities include: OS and hardware enumeration, internal and external IP addresses, MAC address resolution, Wi-Fi network profiles, active processes, installed applications, file listings from Desktop, Downloads, and Documents, open TCP/UDP connections, network-adjacent device discovery, and extraction of stored credentials from Chrome and Firefox. Keystrokes are logged in sessions of 50 keystrokes and delivered via email or Telegram. Anti-analysis features scan for and disable known forensic, reverse engineering, and analysis tools including Wireshark, Process Hacker, IDA Pro, Ghidra, GDB, and Frida.
+
+The delivery component is a VBScript dropper that silently generates and executes a PowerShell loader, detects system architecture, deploys a portable embedded Python 3.11 environment, installs required libraries, fetches the payload from a remote source, launches it, and removes all loader artifacts — operating without visible user interaction or security alerts.
+
+Persistence mechanisms by platform: systemd user services on Linux, Startup folder batch files on Windows, LaunchAgent plist entries on macOS.
+
+Repository: [github.com/anaslabrini/S-PUP](https://github.com/anaslabrini/S-PUP)
+
+---
+
+### AnasC2
+**Category:** Command and Control / Browser-Based Agent Control  
+**Language:** Python — Flask, Socket.IO  
+
+A browser-based Command and Control framework providing real-time bidirectional control over agent sessions via WebSocket communication. The admin panel enables operators to redirect connected agents to arbitrary URLs and deliver alert payloads. Additional modules include an HTTP status code checker and a directory scanner driven by a custom wordlist. All modules are accessible through a centralized launcher interface.
+
+Repository: [github.com/anaslabrini/AnasC2](https://github.com/anaslabrini/AnasC2)
+
+---
+
+### AnasHunter
+**Category:** Web Application Security Testing  
+**Language:** Python  
+
+A modular web application penetration testing framework covering cross-site scripting detection, SQL injection scanning, clickjacking vulnerability identification, brute force attack execution, and denial-of-service testing. Each attack vector is isolated in a dedicated module and invoked through a unified launcher.
+
+Repository: [github.com/anaslabrini/AnasHunter](https://github.com/anaslabrini/AnasHunter)
+
+---
+
+### AnasOsint
+**Category:** Open Source Intelligence / Reconnaissance Automation  
+**Language:** Python  
+
+A modular OSINT intelligence framework supporting structured reconnaissance across email addresses, phone numbers, IP addresses, and domains. Each lookup module operates in basic and advanced modes, aggregating data from over 20 external sources per target type. Sources include HaveIBeenPwned, Hunter.io, Shodan, Censys, AbuseIPDB, VirusTotal, GreyNoise, SecurityTrails, crt.sh, WHOIS, DNS record analysis, and others. Results can be saved as timestamped reports. Both interactive menu and command-line execution modes are supported.
+
+Repository: [github.com/anaslabrini/AnasOsint](https://github.com/anaslabrini/AnasOsint)
+
+---
+
+### AnasRecon
+**Category:** Website Reconnaissance / Asset Discovery  
+**Language:** Python  
+
+A deep reconnaissance framework for web targets providing: domain and IP resolution, WHOIS lookup, ASN and IPInfo data, subdomain enumeration, SSL certificate inspection, HTTP security header analysis, sensitive keyword detection in page content, Nmap-based port and service enumeration, web vulnerability checks for XSS, SQL injection, and CSRF, Shodan host integration, and a final risk scoring assessment across High, Medium, and Low severity categories. All results are written to structured text reports.
+
+Repository: [github.com/anaslabrini/AnasRecon](https://github.com/anaslabrini/AnasRecon)
+
+---
+
+### AnassRedTool
+**Category:** Multi-Function Red Team Toolkit  
+**Language:** Python  
+
+A multi-purpose offensive toolkit covering SSH, FTP, and HTTP brute-force attacks with custom wordlist support, port scanning for open service identification, and host availability testing. Designed for streamlined Red Team workflow integration.
+
+Repository: [github.com/anaslabrini/AnassRedTool](https://github.com/anaslabrini/AnassRedTool)
+
+---
+
+### AnaSSHoney
+**Category:** Honeypot / Threat Intelligence  
+
+A high-interaction SSH honeypot system for capturing attacker behavior, credential attempts, and session activity in controlled environments.
+
+Repository: [github.com/anaslabrini/AnasSSHoney](https://github.com/anaslabrini/AnasSSHoney)
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-###  Frameworks & C2
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge)
-![Empire](https://img.shields.io/badge/Empire-1C1C1C?style=for-the-badge)
-![Sliver](https://img.shields.io/badge/Sliver-00D9FF?style=for-the-badge)
-
-###  Network & Reconnaissance
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
-![Masscan](https://img.shields.io/badge/Masscan-FF6B6B?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Tcpdump](https://img.shields.io/badge/Tcpdump-0080FF?style=for-the-badge)
-![Bettercap](https://img.shields.io/badge/Bettercap-8B0000?style=for-the-badge)
-
-###  Web Application Security
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=for-the-badge)
-![Ffuf](https://img.shields.io/badge/Ffuf-9B59B6?style=for-the-badge)
-![Gobuster](https://img.shields.io/badge/Gobuster-00D9FF?style=for-the-badge)
-![Feroxbuster](https://img.shields.io/badge/Feroxbuster-FF8C00?style=for-the-badge)
-
-###  Credential & Password Attacks
-![Hashcat](https://img.shields.io/badge/Hashcat-FF0080?style=for-the-badge)
-![John](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge)
-![Hydra](https://img.shields.io/badge/Hydra-00FF00?style=for-the-badge)
-![Medusa](https://img.shields.io/badge/Medusa-4B0082?style=for-the-badge)
-![Responder](https://img.shields.io/badge/Responder-FFD700?style=for-the-badge)
-
-###  Active Directory
-![BloodHound](https://img.shields.io/badge/BloodHound-DC143C?style=for-the-badge)
-![SharpHound](https://img.shields.io/badge/SharpHound-B22222?style=for-the-badge)
-![Evil-WinRM](https://img.shields.io/badge/Evil--WinRM-CC0000?style=for-the-badge)
-![Impacket](https://img.shields.io/badge/Impacket-1679A7?style=for-the-badge)
-
-###  Privilege Escalation & Enumeration
-![LinPEAS](https://img.shields.io/badge/LinPEAS-32CD32?style=for-the-badge)
-![WinPEAS](https://img.shields.io/badge/WinPEAS-1E90FF?style=for-the-badge)
-
-###  OSINT Tools
-![TheHarvester](https://img.shields.io/badge/TheHarvester-2ECC71?style=for-the-badge)
-![Amass](https://img.shields.io/badge/Amass-3498DB?style=for-the-badge)
-
-</div>
-
----
-
-##  Tools I Developed (Custom Offensive Engineering)
-
-<div align="center">
-
-|  Tool |  Description |  Repository |
-|:--------|:--------------|:-------------|
-| **AnasC2** | Python-based C2 framework for agent control, payload delivery & adversary simulation | [🔗 View](https://github.com/anaslabrini/AnasC2) |
-| **AnasSSHoney** | High-interaction SSH honeypot for attacker behavior & credential capture | [🔗 View](https://github.com/anaslabrini/AnasSSHoney) |
-| **SpyMorph** | Advanced Multi-Stage Dropper + Loader + Persistence Agent | [🔗 View](https://github.com/anaslabrini/SpyMorph) |
-| **AnasHunter** | Web Application Attacks | [🔗 View](https://github.com/anaslabrini/AnasHunter) |
-| **AnasOsint** | Automated OSINT intelligence collection & correlation engine | [🔗 View](https://github.com/anaslabrini/AnasOsint) |
-| **Crossmos** | C2 talagram anas | [🔗 View](https://github.com/anaslabrini/crossmos) |
-| **AnasRecon** | Automated reconnaissance framework for asset discovery & fingerprinting | [🔗 View](https://github.com/anaslabrini/AnasRecon) |
-| **AnassRedTool** | Multi-layer offensive toolkit for Red Team workflows | [🔗 View](https://github.com/anaslabrini/AnassRedTool) |
-| **S-PUP** | Stealth Payload Utility Processor (Coming Soon) | *Coming Soon* |
-
-</div>
-
-
->  *These tools reflect real Red Team engineering and offensive workflow automation.*
-
----
-
-##  Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/console.png" width="80" height="80"/>
-<h3>AnasC2</h3>
-<p>Command & Control Framework</p>
-<a href="https://github.com/anaslabrini/AnasC2">
-<img src="https://img.shields.io/badge/View-Repository-red?style=for-the-badge"/>
-</a>
-</td>
-
-<td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/honeypot.png" width="80" height="80"/>
-<h3>AnasSSHoney</h3>
-<p>SSH Honeypot System</p>
-<a href="https://github.com/anaslabrini/AnasSSHoney">
-<img src="https://img.shields.io/badge/View-Repository-orange?style=for-the-badge"/>
-</a>
-</td>
-
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/search.png" width="80" height="80"/>
-<h3>SpyMorph</h3>
-<p>APT-Grade Multi-Stage Implant Loader</p>
-<a href="https://github.com/anaslabrini/SpyMorph">
-<img src="https://img.shields.io/badge/View-Repository-yellow?style=for-the-badge"/>
-</a>
-</td>
-</tr>
-
-<tr>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/target.png" width="80" height="80"/>
-<h3>AnasHunter</h3>
-<p>Web Application Attacks</p>
-<a href="https://github.com/anaslabrini/AnasHunter">
-<img src="https://img.shields.io/badge/View-Repository-green?style=for-the-badge"/>
-</a>
-</td>
-
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/spy-male.png" width="80" height="80"/>
-<h3>AnasOsint</h3>
-<p>OSINT Automation</p>
-<a href="https://github.com/anaslabrini/AnasOsint">
-<img src="https://img.shields.io/badge/View-Repository-blue?style=for-the-badge"/>
-</a>
-</td>
-
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/radar.png" width="80" height="80"/>
-<h3>AnasRecon</h3>
-<p>Recon Framework</p>
-<a href="https://github.com/anaslabrini/AnasRecon">
-<img src="https://img.shields.io/badge/View-Repository-purple?style=for-the-badge"/>
-</a>
-</td>
-</tr>
-
-<tr>
-<td width="33%" align="center" colspan="3">
-<img src="https://img.icons8.com/color/96/000000/swiss-army-knife.png" width="80" height="80"/>
-<h3>AnassRedTool</h3>
-<p>Multi-Layer Offensive Toolkit</p>
-<a href="https://github.com/anaslabrini/AnassRedTool">
-<img src="https://img.shields.io/badge/View-Repository-darkred?style=for-the-badge"/>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-##  GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anaslabrini&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF6B00&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaslabrini&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anaslabrini&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaslabrini&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&text_color=FFFFFF" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anaslabrini&theme=radical&hide_border=true&background=0D1117&ring=FF0000&fire=FF6B00&currStreakLabel=FF0000" width="65%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anaslabrini&theme=radical&hide_border=true&background=0D1117&ring=CC0000&fire=CC0000&currStreakLabel=CC0000" width="65%">
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anaslabrini&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="98%">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslabrini&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF0000&line=FF6B00&point=FFFFFF&area_color=0D1117&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslabrini&custom_title=Contribution+Graph&bg_color=0D1117&color=CC0000&line=CC0000&point=FFFFFF&area_color=0D1117&hide_border=true" width="98%"/>
 
 </div>
 
 ---
 
-## Mode
+## Contact
 
-<div align="center">
+All documented projects and technical work are publicly available at [github.com/anaslabrini](https://github.com/anaslabrini).
 
-```ascii
- /$$$$$$         /$$                                   /$$         /$$                                                       /$$  /$$$$$$ 
-|_  $$_/        | $$                                  | $$        | $$                                                      | $$ /$$__  $$
-  | $$         /$$$$$$    /$$$$$$  /$$   /$$  /$$$$$$ | $$$$$$$  /$$$$$$         /$$$$$$/$$$$  /$$   /$$  /$$$$$$$  /$$$$$$ | $$| $$  \__/
-  | $$        |_  $$_/   |____  $$| $$  | $$ /$$__  $$| $$__  $$|_  $$_/        | $$_  $$_  $$| $$  | $$ /$$_____/ /$$__  $$| $$| $$$$    
-  | $$          | $$      /$$$$$$$| $$  | $$| $$  \ $$| $$  \ $$  | $$          | $$ \ $$ \ $$| $$  | $$|  $$$$$$ | $$$$$$$$| $$| $$_/    
-  | $$          | $$ /$$ /$$__  $$| $$  | $$| $$  | $$| $$  | $$  | $$ /$$      | $$ | $$ | $$| $$  | $$ \____  $$| $$_____/| $$| $$      
- /$$$$$$        |  $$$$/|  $$$$$$$|  $$$$$$/|  $$$$$$$| $$  | $$  |  $$$$/      | $$ | $$ | $$|  $$$$$$$ /$$$$$$$/|  $$$$$$$| $$| $$      
-|______/         \___/   \_______/ \______/  \____  $$|__/  |__/   \___/        |__/ |__/ |__/ \____  $$|_______/  \_______/|__/|__/      
-                                             /$$  \ $$                                         /$$  | $$                                  
-                                            |  $$$$$$/                                        |  $$$$$$/                                  
-                                             \______/                                          \______/                                   
-                                                                     
-     🔴 Red Team Specialist | Offensive Security  🔴
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-### 💀 *"Confronting technical challenges and solving them independently is not just a step in the learning process; it is a working methodology that builds real expertise and enables me to analyze, think systematically, and make effective decisions in complex environments."* 💀
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=anaslabrini&color=red&style=for-the-badge&label=PROFILE+VIEWS)
+For professional inquiries, training verification, or access to sanitized assessment reports, contact can be made through the official email address listed on the website: [anaslabrini.netlify.app](https://anaslabrini.netlify.app)
 
 ---
 
-**" Educational & Authorized Security Testing Only | Built with  by Anas Labrini "**
+<div align="center">
+
+All tools and projects documented in this profile are developed exclusively for educational purposes, authorized penetration testing, Red Team simulation, and security research. Unauthorized use against systems without explicit written permission is illegal. The author assumes no responsibility for misuse.
+
+![Profile Views](https://komarev.com/ghpvc/?username=anaslabrini&color=CC0000&style=flat-square&label=Profile+Views)
 
 </div>
